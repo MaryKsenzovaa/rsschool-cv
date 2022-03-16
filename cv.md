@@ -13,7 +13,7 @@ Junior Frontend Developer
 ### About myself
 I'm 24 y.o. and I work in a milk factory as engineer-techlonogist. I don't like my job, I don't have smth new: more features, modern approach and inspirations. 
 
-Course "JS/Front-end 2022" - is my first experience in programming. Before this course I try to find myself in other programming languages, for example, Python.
+Course "JS/Front-end 2022" - is my first experience in programming. Before this course I was trying to find myself in other programming languages, for example, Python.
 
 I'm sure that my diligence and work harding will help me to go only forward.
 ### Language
