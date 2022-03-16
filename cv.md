@@ -15,7 +15,7 @@ I'm 24 y.o. and I work in a milk factory as engineer-techlonogist. I don't like 
 
 Course "JS/Front-end 2022" - is my first experience in programming. Before this course I was trying to find myself in other programming languages, for example, Python.
 
-I'm sure that my diligence and work harding will help me to go only forward.
+I'm sure, that my diligence and work harding will help me to go only forward.
 ### Language
 | Language | Level |
 | ------- | :------: |
